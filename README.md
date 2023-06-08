@@ -42,9 +42,6 @@ The models on the graph were retrained on final fully connected layers only - **
 ## Graph
 ![Results](https://github.com/MarkoArsenovic/DeepLearning_PlantDiseases/blob/master/Results/results.png "Results")
 
-## Visualization Experiments
-
-**@Contributor**: [Brahimi Mohamed](mailto:m_brahimi@esi.dz)
 
 ## Prerequisites:
 
